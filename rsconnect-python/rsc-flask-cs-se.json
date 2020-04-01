@@ -1,0 +1,11 @@
+{
+    "https://colorado.rstudio.com/rsc/": {
+        "server_url": "https://colorado.rstudio.com/rsc/",
+        "filename": "/Users/siegerts/Documents/projects/rsc-flask-cs-se",
+        "app_url": "https://colorado.rstudio.com/rsc/content/5282/",
+        "app_id": 5282,
+        "app_guid": "1475d5d1-39f7-47e3-87ad-974fa8563778",
+        "title": "rsc-flask-cs-se",
+        "app_mode": "python-api"
+    }
+}
